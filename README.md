@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Martinkstro/Martinkstro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -    My name is Martín Alexis Castro Castro. 
 
-Here are some ideas to get you started:
+ -    I'm 19 years old. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -    I'm living in La Paz, Baja California Sur, México. 
+
+ -    I’m currently studying on Universidad Autónoma de Baja California Sur (UABCS).
+
+ -    I’m currently learning Software Development and Web Development. 
+
+ -    Looking for experience in different projects. 
+
+ -    Teamwork.
+
+ -    Java, C++, HTML, CSS
+
+ -    Contact me:  
+      > Email: mcastro_20@alu.uabcs.mx
+      > Instagram: www.instagram.com/_martinkstro/ 
+ 
+
+ -    Software engineer, in progress... ⏳
